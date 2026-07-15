@@ -1,34 +1,129 @@
-| **$R_1$ = 220** | | |
-| :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.08 | 0.047 | 214.46 |
+<table>
+  <tr>
+    <th colspan="3" style="text-align: center;">$R_1$ = 220</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.08</td>
+    <td style="text-align: center;">0.047</td>
+    <td style="text-align: center;">214.46</td>
+  </tr>
+</table>
 
-| **$R_2$ = 330** | | |
-| :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.09 | 0.031 | 325.48 |
+<table>
+  <tr>
+    <th colspan="3" style="text-align: center;">$R_2$ = 330</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.09</td>
+    <td style="text-align: center;">0.031</td>
+    <td style="text-align: center;">325.48</td>
+  </tr>
+</table>
 
-| **$R_3$ = 470** | | |
-| :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.09 | 0.022 | 458.63 |
+<table>
+  <tr>
+    <th colspan="3" style="text-align: center;">$R_3$ = 470</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.09</td>
+    <td style="text-align: center;">0.022</td>
+    <td style="text-align: center;">458.63</td>
+  </tr>
+</table>
 
-| **$R_1$ con $R_2$** | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **$I_1(A)$** | **$I_2(A)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.07 | 0.047 | 0.031 | 0.078 | 124.10 |
+<table>
+  <tr>
+    <th colspan="5" style="text-align: center;">$R_1$ con $R_2$</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">$I_1(A)$</th>
+    <th style="text-align: center;">$I_2(A)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.07</td>
+    <td style="text-align: center;">0.047</td>
+    <td style="text-align: center;">0.031</td>
+    <td style="text-align: center;">0.078</td>
+    <td style="text-align: center;">124.10</td>
+  </tr>
+</table>
 
-| **$R_1$ con $R_3$** | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **$I_1(A)$** | **$I_3(A)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.08 | 0.047 | 0.022 | 0.069 | 146.08 |
+<table>
+  <tr>
+    <th colspan="5" style="text-align: center;">$R_1$ con $R_3$</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">$I_1(A)$</th>
+    <th style="text-align: center;">$I_3(A)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.08</td>
+    <td style="text-align: center;">0.047</td>
+    <td style="text-align: center;">0.022</td>
+    <td style="text-align: center;">0.069</td>
+    <td style="text-align: center;">146.08</td>
+  </tr>
+</table>
 
-| **$R_2$ con $R_3$** | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **$I_2(A)$** | **$I_3(A)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.08 | 0.031 | 0.022 | 0.053 | 190.18 |
+<table>
+  <tr>
+    <th colspan="5" style="text-align: center;">$R_2$ con $R_3$</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">$I_2(A)$</th>
+    <th style="text-align: center;">$I_3(A)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.08</td>
+    <td style="text-align: center;">0.031</td>
+    <td style="text-align: center;">0.022</td>
+    <td style="text-align: center;">0.053</td>
+    <td style="text-align: center;">190.18</td>
+  </tr>
+</table>
 
-| **$R_1$, $R_2$ y $R_3$** | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Voltaje $V (V)$** | **$I_1(A)$** | **$I_2(A)$** | **$I_3(A)$** | **Corriente $I (A)$** | **$R = \frac{V}{I}$** |
-| 10.08 | 0.047 | 0.031 | 0.22 | 0.099 | 101.81 |
+<table>
+  <tr>
+    <th colspan="6" style="text-align: center;">$R_1$, $R_2$ y $R_3$</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Voltaje $V (V)$</th>
+    <th style="text-align: center;">$I_1(A)$</th>
+    <th style="text-align: center;">$I_2(A)$</th>
+    <th style="text-align: center;">$I_3(A)$</th>
+    <th style="text-align: center;">Corriente $I (A)$</th>
+    <th style="text-align: center;">$R = \frac{V}{I}$</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10.08</td>
+    <td style="text-align: center;">0.047</td>
+    <td style="text-align: center;">0.031</td>
+    <td style="text-align: center;">0.22</td>
+    <td style="text-align: center;">0.099</td>
+    <td style="text-align: center;">101.81</td>
+  </tr>
+</table>
